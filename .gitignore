@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+# 스킬 런타임 캐시
+.aix-archive-cache.json
+# OS / 편집기
+.DS_Store
+Thumbs.db
+.vscode/
+# 압축본
+*.zip
+# 원내 게시판 데이터(공개 저장소에 올리지 않음)
+skills/aix-archive/data/
+bbs9157_harvest*.json

@@ -1,0 +1,7 @@
+{
+  "name": "kist-aix-archive",
+  "version": "0.1.0",
+  "description": "KIST 그룹웨어 'AI 아카이브'(BBS9157) 게시글을 읽어 한줄평 요약·질문 기반 추천을 해 주는 스킬. AIX 전략실 사내 AI 소식을 빠르게 따라잡기 위한 도구.",
+  "author": { "name": "KIST 강릉 / Juho Yoon" },
+  "keywords": ["kist", "aix", "ai-archive", "bbs9157", "claude-code", "skill"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "kist-aix-archive",
+  "owner": { "name": "KIST 강릉 / Juho Yoon" },
+  "plugins": [
+    {
+      "name": "kist-aix-archive",
+      "source": "./",
+      "description": "KIST 'AI 아카이브'(BBS9157) 게시글 요약·추천 스킬. 'aix-archive' 스킬을 포함한다.",
+      "category": "productivity",
+      "tags": ["kist", "aix", "knowledge", "summarization"]
+    }
+  ]
+}
